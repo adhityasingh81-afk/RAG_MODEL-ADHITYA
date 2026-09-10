@@ -24,8 +24,8 @@ A Retrieval-Augmented Generation (RAG) document ingestion pipeline built with La
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/adhityasingh81-afk/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/adhityasingh81-afk/RAG_MODEL-ADHITYA.git
+   cd RAG_MODEL-ADHITYA
    ```
 
 2. **Create and activate a virtual environment**:
